@@ -1,6 +1,1 @@
-# app-ads.txt de Stencil Stack (modèle).
-# AVANT DE PUBLIER : remplacer pub-0000000000000000 par ton identifiant d'éditeur AdMob,
-# visible dans AdMob -> Paramètres -> Informations sur le compte (« ID d'éditeur », commence par pub-).
-# Ne pas modifier le reste de la ligne : DIRECT et f08c47fec0942fa0 (identifiant de certification de Google)
-# sont toujours les mêmes.
-google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+google.com, pub-7377368281598644, DIRECT, f08c47fec0942fa0
